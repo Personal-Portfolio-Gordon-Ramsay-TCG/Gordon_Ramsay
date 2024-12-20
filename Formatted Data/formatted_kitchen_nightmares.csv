@@ -1,0 +1,88 @@
+season,episode,restaurant,city,state,air_date,status,film_year,closing_year,cuisine,revisited,two_parts
+1,1,peter's,babylon,ny,2007-09-19,closed,2007,2008.0,italian,no,no
+1,2,dillon's,new york city,ny,2007-09-26,closed,2007,2008.0,indian,no,no
+1,3,the mixing bowl,bellmore,ny,2007-10-03,closed,2007,2009.0,american,no,no
+1,4,seascape,islip,ny,2007-10-10,closed,2007,2007.0,seafood,no,no
+1,5,the olde stone mill,tuckahoe,ny,2007-10-17,closed,2007,2022.0,american,yes,no
+1,6,sebastian's,toluca lake,ca,2007-11-07,closed,2007,2008.0,pizza,no,no
+1,7,finn mccool's,westhampton,ny,2007-11-14,closed,2007,2012.0,irish,yes,no
+1,8,lela's,pomona,ca,2007-11-21,closed,2007,2007.0,fine dining,no,no
+1,9,campania,fair lawn,nj,2007-11-28,closed,2007,2010.0,italian,no,no
+1,10,the secret garden,moorpark,ca,2007-12-12,closed,2007,2010.0,french,no,no
+2,2,handlebar,mount sinai,ny,2008-09-11,closed,2008,2009.0,american,yes,no
+2,3,giuseppi's,macomb township,mi,2008-09-18,closed,2008,2009.0,italian,yes,no
+2,4,trobiano's,great neck,ny,2008-09-25,closed,2008,2008.0,italian,no,no
+2,5,black pearl,new york city,ny,2008-09-25,closed,2008,2008.0,seafood,yes,no
+2,6,j willy's,south bend,in,2008-10-30,closed,2008,2009.0,american,no,no
+2,7,hannah & mason's,cranbury,nj,2008-11-06,closed,2008,2010.0,american,no,no
+2,8,jack's waterfront,st. clair shores,mi,2008-11-06,closed,2008,2010.0,seafood,no,no
+2,9,sabatiello's,stamford,ct,2008-11-13,closed,2008,2008.0,italian,no,no
+2,10,fiesta sunrise,west nyack,ny,2008-11-13,closed,2008,2008.0,mexican,no,no
+2,11,sante la brea,los angeles,ca,2008-11-20,closed,2008,2011.0,healthy,yes,no
+2,12,cafe 36,la grange,il,2009-01-15,closed,2008,2009.0,american,no,no
+3,1,hot potato cafe,fishtown,pa,2010-01-29,closed,2009,2010.0,american,no,no
+3,2,flamango's,whitehouse station,nj,2010-02-02,closed,2009,2011.0,hawaiian,yes,no
+3,3,bazzini,ridgewood,nj,2010-02-05,closed,2009,2010.0,italian,yes,no
+3,4,mojito,brooklyn,ny,2010-02-25,closed,2009,2016.0,cuban,yes,no
+3,5,lido di manhattan,manhattan beach,ca,2010-03-04,open,2009,,italian,yes,no
+3,6,le bistro,lighthouse point,fl,2010-03-11,open,2009,,fine dining,yes,no
+3,7,casa roma,lancaster,ca,2010-03-12,closed,2008,2017.0,italian,yes,no
+3,8,mama rita's,newbury park,ca,2010-03-19,closed,2009,2010.0,mexican,no,no
+3,9,anna vincenzo's,boca raton,fl,2010-03-26,closed,2009,2010.0,italian,yes,no
+3,11,fleming,miami,fl,2010-05-07,closed,2009,2010.0,danish,no,no
+3,12,sushi-ko,thousand oaks,ca,2010-05-14,closed,2009,2009.0,japanese,no,no
+4,1,spanish pavilion,harrison,nj,2011-01-21,open,2010,,spanish,yes,no
+4,2,classic american,babylon,ny,2011-01-28,closed,2010,2013.0,american,yes,no
+4,3,pj's steakhouse,queens,ny,2011-02-11,closed,2010,2010.0,american,no,no
+4,5,grasshopper also,carlstadt,nj,2011-02-18,closed,2010,2012.0,irish,no,no
+4,6,davide,boston,ma,2011-02-25,closed,2010,2014.0,italian,yes,no
+4,7,down city,providence,ri,2011-03-11,closed,2010,2011.0,american,yes,no
+4,9,tavolini,bridgeport,ct,2011-03-25,closed,2010,2010.0,italian,no,no
+4,10,kingston cafe,pasadena,ca,2011-04-15,closed,2011,2018.0,jamaican,yes,no
+4,11,la frite,sherman oaks,ca,2011-04-29,closed,2011,2016.0,french,yes,no
+4,12,capri,eagle rock,ca,2011-05-06,closed,2011,2019.0,italian,yes,no
+4,13,zeke's,metairie,la,2011-05-13,closed,2011,2012.0,seafood,no,no
+4,14,oceana,new orleans,la,2011-05-20,open,2011,,new orleans,no,no
+5,1,blackberry's,plainfield,nj,2011-09-23,closed,2011,2013.0,soul food,no,no
+5,2,leone's,montclair,nj,2011-09-30,open,2011,,italian,yes,no
+5,3,mike & nellie's,oakhurst,nj,2011-10-07,closed,2011,2012.0,steakhouse,no,no
+5,4,luigi's d'italia,anaheim,ca,2011-10-14,open,2011,,italian,no,no
+5,6,burger kitchen,los angeles,ca,2011-09-04,closed,2011,2012.0,american,no,yes
+5,8,the greek at the harbor,ventura,ca,2011-11-18,open,2011,,greek,no,no
+5,9,michon's,college park,ga,2012-01-13,closed,2012,2013.0,barbecue,no,no
+5,10,el greco,austin,tx,2012-01-20,closed,2011,2011.0,greek,no,no
+5,12,park's edge,atlanta,ga,2012-02-03,closed,2011,2014.0,american,no,no
+5,13,spin-a-yarn steakhouse,fremont,ca,2012-02-10,open,2011,,steakhouse,no,no
+5,14,charlie's,la verne,ca,2012-02-17,closed,2011,2012.0,italian,no,no
+5,15,cafe hon,baltimore,md,2012-02-24,closed,2011,2022.0,american,yes,no
+5,16,chiarella's,philadelphia,pa,2012-03-23,closed,2011,2015.0,italian,yes,no
+5,17,zocalo,philadelphia,pa,2012-03-30,closed,2011,2013.0,mexican,no,no
+6,1,la galleria 33,boston,ma,2012-10-26,closed,2012,2018.0,italian,yes,yes
+6,3,mama maria's,brooklyn,ny,2012-11-09,open,2012,2023.0,italian,no,no
+6,4,ms. jean's southern cuisine,wilkinsburg,pa,2012-11-16,closed,2012,2022.0,soul food,no,no
+6,5,barefoot bob's,hull,ma,2012-12-07,closed,2012,2016.0,american,no,no
+6,7,olde hitching post restaurant and tavern,hanson,ma,2013-01-25,open,2012,,american,yes,no
+6,8,levanti's italian restaurant,beaver,pa,2013-02-01,closed,2012,2013.0,italian,no,no
+6,9,sam's mediterranean kabob room,monrovia,ca,2013-02-15,closed,2012,2014.0,mediterranean,no,no
+6,10,nino's italian restaurant,long beach,ca,2013-02-22,closed,2012,2016.0,italian,no,yes
+6,11,mill street bistro,norwalk,oh,2013-03-01,closed,2012,2016.0,american,no,no
+6,13,yanni's,seattle,wa,2013-03-15,open,2012,,greek,no,no
+6,14,prohibition grille,everett,wa,2013-04-26,closed,2012,2017.0,american,yes,no
+6,15,chappy's,nashville,tn,2013-05-03,closed,2012,2013.0,cajun,yes,no
+6,16,amy's baking company,scottsdale,az,2013-05-10,closed,2012,2015.0,pizza/bakery,no,no
+7,2,pantaleone's,denver,co,2014-04-11,open,2013,,pizza,no,no
+7,3,old neighborhood,arvada,co,2014-04-18,closed,2013,2016.0,american,no,no
+7,4,kati allo,queens,ny,2014-04-18,closed,2013,2014.0,greek,no,no
+7,5,mangia mangia,woodland park,co,2014-04-25,closed,2013,2014.0,italian,no,yes
+7,7,zayna flaming grill,redondo beach,ca,2014-05-02,closed,2013,2023.0,middle eastern,no,yes
+7,9,bella luna,easton,pa,2014-05-16,closed,2013,2013.0,italian,no,no
+8,1,bel aire,astoria,ny,2023-09-25,open,2023,,american,no,no
+8,2,bask 46,woodland park,nj,2023-10-02,open,2023,,american,no,no
+8,3,in the drink,wayne,nj,2023-10-09,open,2023,,american,no,no
+8,4,da mimmo,dumont,nj,2023-10-16,open,2023,,italian,no,no
+8,5,the juicy box,brooklyn,ny,2023-11-06,open,2023,,american,no,no
+8,6,love bites,saugerties,ny,2023-11-13,closed,2023,2023.0,breakfast,no,no
+8,7,el cantito,yonkers,ny,2023-11-20,open,2023,,puerto rican,no,no
+8,8,south brooklyn foundry,brooklyn,ny,2023-11-27,closed,2023,2024.0,american,no,no
+8,9,max's bar & grill,long branch,nj,2023-12-04,open,2023,,american,no,no
+8,10,diwan,port washington,ny,2023-12-04,open,2023,,indian,no,no
